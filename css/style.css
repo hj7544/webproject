@@ -1,0 +1,172 @@
+*{
+    
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    color:rgb(255,255,255);
+    font-size: large;    
+    
+}
+
+.nav{
+    
+    display:flex;
+    width:2510px;
+    height:60px;
+    padding:10px;
+    background: red;
+    
+}
+
+.nav > li{
+    padding:10px;
+    margin-left:375px;
+    background:red;
+}
+
+
+
+.aa {
+    position: absolute;
+    left: 480px;
+    top: 500px;
+}
+.ab {
+    position: absolute;
+    left: 1080px;
+    top: 500px;
+}
+.ac {
+    position: absolute;
+    left: 1680px;
+    top: 500px;
+}
+
+
+
+.ad {
+    position: absolute;
+    left: 480px;
+    top: 900px;
+}
+.ae {
+    position: absolute;
+    left: 1080px;
+    top: 900px;
+    
+}
+
+
+
+
+.af {
+    position: absolute;
+    left: 480px;
+    top: 1500px;
+}
+.ag {
+    position: absolute;
+    left: 1080px;
+    top: 1500px;
+}
+.ah {
+    position: absolute;
+    left: 1680px;
+    top: 1500px;
+}
+
+.ai{
+    position: absolute;
+    left: 1150px;
+    top: 1380px;
+    font-size: 250%;
+}
+
+.b{
+    position: absolute;
+    left: 400px;
+    top: 420px;
+}
+
+.ba{
+    position: absolute;
+    left: 1300px;
+    top: 500px;
+}
+
+.bb{
+    position: absolute;
+    left: 1300px;
+    top: 800px;
+}
+
+.c{
+    position: absolute;
+    left: 520px;
+    top: 350px;
+}
+
+
+.d{
+    position: absolute;
+    left: 350px;
+    top: 450px;
+}
+.da{
+    position: absolute;
+    left: 350px;
+    top: 1000px;
+}
+.db{
+    position: absolute;
+    left: 350px;
+    top: 1550px;
+}
+.dc{
+    position: absolute;
+    left: 350px;
+    top: 2100px;
+}
+.dd{
+    position: absolute;
+    left: 350px;
+    top: 2650px;
+}
+.de{
+    position: absolute;
+    left: 350px;
+    top: 3200px;
+}
+
+
+.d1{
+    position: absolute;
+    left: 1300px;
+    top: 530px;
+}
+.d2{
+    position: absolute;
+    left: 1300px;
+    top: 1080px;
+}
+.d3{
+    position: absolute;
+    left: 1300px;
+    top: 1630px;
+}
+.d4{
+    position: absolute;
+    left: 1300px;
+    top: 2180px;
+}
+.d5{
+    position: absolute;
+    left: 1300px;
+    top: 2730px;
+}
+.d6{
+    position: absolute;
+    left: 1300px;
+    top: 3280px;
+}
